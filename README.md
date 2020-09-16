@@ -6,7 +6,7 @@
 
 
 
-![Ardentwheel's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue-dark&show_icons=true)
+![Ardentwheel's github stats](https://github-readme-stats.vercel.app/api?username=ardentwheel&theme=vue-dark&show_icons=true)
 
 
 [OpenCore-Hasee-X57S1]: <https://github.com/Ardentwheel/OpenCore-Hasee-X57S1>

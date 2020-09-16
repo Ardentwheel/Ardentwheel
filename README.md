@@ -1,4 +1,6 @@
-### Hello, I'm Ardentwheel 👋
+## Hello, I'm Ardentwheel 👋
+
+
 
  * 🔭 Currently work on [OpenCore-Hasee-X57S1]
  * 👯‍♂️ Loking collaborateur on [OpenCore-Hasee-X57S1]
@@ -6,7 +8,8 @@
 
 
 
-![Ardentwheel's github stats](https://github-readme-stats.vercel.app/api?username=ardentwheel&theme=vue-dark&show_icons=true)
+
+![Ardentwheel's github stats](https://github-readme-stats.vercel.app/api?username=ardentwheel&theme=vue&show_icons=true)
 
 
 [OpenCore-Hasee-X57S1]: <https://github.com/Ardentwheel/OpenCore-Hasee-X57S1>

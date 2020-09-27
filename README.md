@@ -9,7 +9,12 @@
 
 
 
-![Ardentwheel's github stats](https://github-readme-stats.vercel.app/api?username=ardentwheel&theme=vue&show_icons=true)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardentwheel&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff">
+</p>
+
 
 
 [OpenCore-Hasee-X57S1]: <https://github.com/Ardentwheel/OpenCore-Hasee-X57S1>
